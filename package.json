@@ -1,0 +1,38 @@
+{
+  "name": "@t-mac/download-m3u8",
+  "version": "1.0.0",
+  "description": "A fast and easy to use m3u8 video download tool.",
+  "keywords" : [
+    "m3u8",
+    "hls",
+    "stream",
+    "download"
+  ],
+  "type": "module",
+  "main": "./lib/download-m3u8.js",
+  "bin": {
+    "download-m3u8": "./lib/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Tracy-xu",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "commander": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.6",
+    "@types/node": "^22.15.29",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tracy-xu/download-m3u8.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
