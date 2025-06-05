@@ -1,8 +1,8 @@
 {
-  "name": "@t-mac/download-m3u8",
-  "version": "1.0.0",
+  "name": "@telei/m3u8-downloader",
+  "version": "1.0.1",
   "description": "A fast and easy to use m3u8 video download tool.",
-  "keywords" : [
+  "keywords": [
     "m3u8",
     "hls",
     "stream",

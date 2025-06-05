@@ -1,13 +1,13 @@
-# Download-m3u8
+# M3U8-Downloader
 
 A fast and easy to use m3u8 video download tool.
 
 ## Installation
 
 ```bash
-npm install @t-mac/download-m3u8 -g
+npm install @telei/m3u8-downloader -g
 # or
-npx -p @t-mac/download-m3u8 download-m3u8 xxx.m3u8
+npx -p @telei/m3u8-downloader download-m3u8 xxx.m3u8
 ```
 
 ## Execution
