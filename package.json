@@ -1,6 +1,6 @@
 {
   "name": "@telei/m3u8-downloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fast and easy to use m3u8 video download tool.",
   "keywords": [
     "m3u8",
