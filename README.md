@@ -7,13 +7,13 @@ A fast and easy to use m3u8 video download tool.
 ```bash
 npm install @telei/m3u8-downloader -g
 # or
-npx -p @telei/m3u8-downloader download-m3u8 "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+npx -p @telei/m3u8-downloader download-m3u8 "https://example.com/playlist.m3u8"
 ```
 
 ## Execution
 
 ```bash
-download-m3u8 "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+download-m3u8 "https://example.com/playlist.m3u8"
 ```
 
 ## Help
