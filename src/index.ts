@@ -4,7 +4,7 @@ import downloadM3u8 from './download-m3u8.js'
 
 program
   .name('download-m3u8')
-  .version('1.0.0')
+  .version('1.1.0')
   .description('A fast and easy to use m3u8 video download tool.')
   .argument('<m3u8Url>', 'm3u8 url')
   .option('-c, --concurrency <number>', 'concurrency number', '10')
